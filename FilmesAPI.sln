@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.3.32819.101
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmesAPI", "FilmesAPI\FilmesAPI.csproj", "{E0C3B3C3-F052-4B29-85C8-B409DF8E895E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmesApi", "FilmesApi\FilmesApi.csproj", "{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E0C3B3C3-F052-4B29-85C8-B409DF8E895E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E0C3B3C3-F052-4B29-85C8-B409DF8E895E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E0C3B3C3-F052-4B29-85C8-B409DF8E895E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E0C3B3C3-F052-4B29-85C8-B409DF8E895E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {715978B1-9D12-4318-B67F-D665D9ACBF60}
+		SolutionGuid = {737E4B35-676C-4151-A256-6035D4EAFB43}
 	EndGlobalSection
 EndGlobal
